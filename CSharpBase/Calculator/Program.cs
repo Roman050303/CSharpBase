@@ -8,7 +8,8 @@ namespace Calculator
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             int x = 25;
-            int y = 30;
+            int y = 70;
+            int z = 100;
             int c = x + y;
             Console.Write("ответ: " + c);
          }
