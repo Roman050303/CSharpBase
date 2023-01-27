@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LkEiLON7p3jZ0MhQXeMOdGLlBXXhnR+ut9e6C+pTZ9f/13CzYN7J/NrJRlyelqoWk9S/l2nYiyRQmg7NaFrqHQ==",
+  "dgSpecHash": "XC/i3o8O0A1zQdC2mSULhAwLbKd3AQXnhjC99jDVotSgfgpAC/5JWIQoBUYG9Wq3e13VJZF3rFPDXBh8GAtZjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Roman\\Documents\\Education\\Git\\CSharpBase\\CSharpBase\\Calculator\\Calculator.csproj",
+  "projectFilePath": "C:\\Users\\Roman\\Documents\\Education\\CSharpBase\\CSharpBase\\Calculator\\Calculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

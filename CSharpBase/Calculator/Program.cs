@@ -11,7 +11,10 @@ namespace Calculator
             int y = 70;
             int z = 100;
             int c = x + y;
-            Console.Write("ответ: " + c);
+            Console.WriteLine("ответ: " + c);
+
+            int r = y - x;
+            Console.WriteLine("вычитание: " + r);
          }
     }
 }
