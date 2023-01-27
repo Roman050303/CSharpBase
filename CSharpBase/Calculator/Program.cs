@@ -15,6 +15,7 @@ namespace Calculator
 
             int r = y - x;
             Console.WriteLine("вычитание: " + r);
+            Console.WriteLine();
          }
     }
 }
